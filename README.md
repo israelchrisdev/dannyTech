@@ -1,2 +1,0 @@
-# dannyTech
-Ebay clone
